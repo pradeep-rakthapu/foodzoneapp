@@ -1,0 +1,68 @@
+.quicksearch{
+   
+    height: 100px;
+    width: 100%;
+}
+#qt{
+    
+    width: 100%;
+    margin-left: 5%;
+    margin-bottom: 5%;
+
+    color: rgb(114, 113, 112);
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+#qt > h1{
+    text-shadow: 1px 1px rgb(66, 66, 65);
+    font-weight: bolder;
+}
+
+.row{
+    height: 200px;
+}
+
+.bg{
+    height: 190px;
+    margin: 2%;
+    width: 100%;
+    border: 2px solid black;
+    box-shadow: 4px 4px 10px gray;
+    background: crimson;
+
+}
+
+
+.img{
+    height: 100%;
+    width: 50%;
+    float: left;
+    margin-left: 0;
+}
+.img >img{
+    margin-left: 0%;
+    height: 100%;
+    width: 100%;
+}
+
+.mealstext{
+   
+   
+   
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bolder;
+    
+    float: left;
+    height: 190;
+    width: 45%;
+    margin-left: 3%;
+    
+    
+}
+.item{
+    
+    color: #ededdc;
+}
+#hs{
+    color: rgb(109, 2, 248);
+}

@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+    background-color:rgb(112, 245, 201);
+}
+.mydark{
+    background-color: black;
+    color: white;
+} 
+title{
+    font-family:'Times New Roman', Times, serif; 
+    font-style: italic;
+}
+header > .row{
+    height: 74px;
+    margin-bottom: 0px;
+    
+    
+}
+#icon{
+    color: rgb(212, 156, 81);
+    font-size: xx-large;
+
+}
+#user{
+    font-size: 20px;
+    margin-right: 0
+}
+
+.slogo{
+    height: 50px;
+    width: 50px;
+    
+}
+footer{
+     
+    color: #232121;
+
+    height: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    
+    margin-top: 5%;
+    
+    
+    
+}
+#f{
+  
+
+}
+
+.foot1{
+    width: 30%;
+    margin-left: 5%;
+    border-right: 2px solid whitesmoke;
+    float: left;
+    height: 120px;
+}
+.foot2{
+    width: 25%;
+    margin-left: 5%;
+    float: left;
+    height: 120px;
+
+}
+.btnlogin{
+    display:inline-block;
+    
+    
+}
+.btnblock{
+    margin-left: 70%;
+}
